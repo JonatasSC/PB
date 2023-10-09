@@ -2,7 +2,7 @@
 layout: default
 title:  "Inteligência Emocional - Daniel Goleman, Phd"
 date:    2023-09-05 21:23:20 -0300
-categories: resenhas
+categories: opnião
 permanlink: /:categories
 ---
 **Inteligência emocional** é um livro com diversas informações relevantes a respeito de como as emoções humanas funcionam e como dominá-las por vezes pode ser a chave do sucesso profissional.
