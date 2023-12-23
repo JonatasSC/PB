@@ -9,11 +9,7 @@ tags_path: /tags/
 
 
 # Settings for Jekyll Compose
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
+
 
 # Build settings
 theme: jekyll-theme-tao
