@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Um pouco sobre mim
+title: Um pouco sobre o blog
 permalink: /about/
 ---
-Me chamo [Jonatas Santos conceição](https://www.linkedin.com/in/jhowatassc/) e tenho 23 anos, sou de São Paulo - SP e meu intuito com a criação desse blog é mostrar um pouco a respeito dos conteúdos passados na faculdade e, além disso, poder também compartilhar um pouco a respeito de mim como forma de apresentar um pouco do meu trabalho.
-Aqui quero poder expressar ideias e analises a respeito de leituras feitas por mim, exibir conteúdos teóricos sobre matérias da grade curricular do curso, as que mais me identifico e que acho que tem uma maior importância para meu desenvolvimento profissional, falar sobre as pretenções que tenho na area de TI e também expor um pouco dos projetos em que estou participando no momento.
 
-Em constante aprendizado estou buscando me aperfeiçoar na área de TI, atualmente estou cursando o *4.º semestre de Ciência da Computação na instituição Anhanguera*. Tenho conhecimento basico em Java, HTML e CSS, C++, python e fundamentos de logica de programação.
-
-Um aprendizado que sempre levo comigo é que independente do tamanho ou da importancia do trabalho que nos é dado, devemos faze-lo da melhor forma possivél e que sempre devemos ser gratos pelas coisas que são postas em nossos caminhos pelo destino, tento sempre me ajustar comforme a minha sorte e por isso não sinto vergonha de onde estou e pelo contrario continuo focado para chegar exatamente aonde quero estar futuramente.
+Quando criei o Vórtice de pensamentos, queria poder ter um lugar aonde eu pudesse compartilhar conhecimentos a respeito das leituras que fiz e dessa maneira mostrar para outras pessoas até como uma forma de recomendação e inspiração para que começassem a ler também, a realização disso foi um grande marco para mim, porque expandiu meus horizontes e me fez ver as coisas de uma nova perspectiva. <br>
+A leitura é algo que eu trago comigo já faz um tempo, mas ultimamente tem se mostrado de extrema importância para meu crescimento pessoal e intelectual, isso me faz refletir que por mais que eu tenha trilhado um caminho longo até aqui ainda sim é o começo de um processo muito maior, que vai dar forma ao profissional que pretendo me tornar. Invariavelmente a leitura está atrelada a isso e com o blog posso disseminar o conhecimento ao mesmo tempo que aprendo mais a respeito, me aprofundando em assuntos relacionados aos livros que leio e assim tendo mais autoridade para poder falar a respeito deles.

@@ -9,18 +9,11 @@ tags_path: /tags/
 
 
 # Settings for Jekyll Compose
-jekyll_compose:
-  default_front_matter:
-    drafts:
-      layout:
-      title:
-      date:
-      tags:
-    posts:
-      layout:
-      title:
-      date:
-      tags:
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 
 # Build settings
 theme: jekyll-theme-tao

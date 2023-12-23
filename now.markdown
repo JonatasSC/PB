@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projetos Atuais
+title: Projeto Atual
 permalink: /agora/
 ---
 
-Atualmente o projeto que estou envolvido é o de um robo seguidor de linha. Junto com alguns colegas de grupo da faculdade estamos desenvolvendo esse projeto e com ele estão vindo diversos aprendizados entre eles a importancia da coperação e do trabalho em equipe para conseguir chegar à um objetivo em comum, e nesse caso o intuito do projeto é participar de uma competição que vai ser feita entre os proprios alunos da sala. você pode saber mais a respeito desse projeto [clicando aqui](https://cypher-vortex.github.io/cypherblog/)
+O último projeto que participei foi o do um robô seguidor de linha que chamamos de Cypher Vortex. Com alguns colegas de grupo da faculdade desenvolvemos esse projeto bem simples de um robô seguidor de linha controlado por Arduino e com ele vieram diversos aprendizados, entre eles a importância da cooperação e do trabalho em equipe para conseguir chegar a um objetivo em comum. No começo o intuito do projeto era participar de uma competição feita entre os próprios alunos da sala. Você pode saber mais a respeito do projeto [clicando aqui](https://cypher-vortex.github.io/cypherblog/).
