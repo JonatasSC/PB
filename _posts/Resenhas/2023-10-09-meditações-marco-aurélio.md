@@ -9,6 +9,7 @@ image: /assets/images/marcoaurelio.jpg
 
 
 <h2>Meditações - Marco Aurélio</h2>
+{% include read-time.html %}
 
 Nascido em berço esplêndido, Marco Aurélio teve seu primeiro contato com a filosofia aproximadamente aos 23 anos, segundo relatado por Pierre Hadot em seu livro The Inner Citadel. Dedicou uma vida inteira a filosofia, fazendo parte mais especificamente do movimento estoico e sendo lembrado quase que instantaneamente quando se tratando dele. A sua grande fama não é à toa Marco Aurélio foi o último grande imperador romano, permaneceu no poder durante 19 anos e passou à história como um governante culto e dedicado a filosofia. Assumiu o trono em um período de extrema instabilidade militar, sendo bem-sucedido na proteção das fronteiras contra os partas e os germanos. Nascido no ano de 121 D.C. faleceu em uma expedição militar contra os marcomanos no ano 180 D.C.
 

@@ -1,8 +1,8 @@
-- title: Inicio
+- title: Home
   url: /
-- title: Sobre
+- title: About
   url: /about
-- title: Agora
-  url: /agora
+- title: Now
+  url: /now
 - title: Archive
   url: /archive
