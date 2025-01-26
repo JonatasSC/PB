@@ -1,10 +1,9 @@
 <span class="post-metadata" title="Estimated read time">
-  Reading time: 
-  {% assign words = content | number_of_words %}
+<h5>Reading time: 
+  {% assign words = page.content | number_of_words %}
   {% if words < 360 %}
     1 min
   {% else %}
     {{ words | divided_by:180 }} mins
   {% endif %}
-</span>
-
+</h5>
