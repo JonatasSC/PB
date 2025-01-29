@@ -8,6 +8,7 @@ image: /assets/images/daniel-goleman-inteligencia-emocional.jpg
 ---
 
 <h2>Inteligência Emocional - Daniel Goleman</h2>
+
 {% include read-time.html %}
 
 **Inteligência emocional** do escritor **Daniel Goleman** é um livro de uma série de três livros e todos falam a respeito de estudos no campo da inteligência emocional, cada um com ênfase em uma característica específica. Este livro fala especificamente da teoria revolucionária que redefine o que é ser inteligente do ponto de vista do autor baseada em uma série de estudos, todos eles documentados e apresentados de forma didática no livro. Estudos esses que demonstram na prática como as emoções humanas funcionam e como dominá-las por vezes pode até ser a chave para o sucesso profissional, assim dando outro significado para oque intendemos como inteligencia.
